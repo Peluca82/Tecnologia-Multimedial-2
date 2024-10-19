@@ -1,0 +1,224 @@
+{   "audio" : "audios/audio2.mp3",
+    "modelo":"modelos/modelo0.glb",
+    "fondo":"rgb(0,20,50)",
+    "data" :
+        [
+            {
+                 "tiempo":"00:00",
+                 "duracion":0,
+                 "camara":"c1",
+                 "target":"c2",
+                 "nombre":"Camara de seguridad Habitacion de 6 camas"
+            },
+            {
+                 "tiempo":"00:05",
+                 "duracion":0,
+                 "camara":"c3",
+                 "target":"c4",
+                 "nombre":"Camara de seguridad pasillo con habitaciones"
+            },
+            {
+                 "tiempo":"00:10",
+                 "duracion":0,
+                 "camara":"c5",
+                 "target":"c6",
+                 "nombre":"Camara de seguridad al taller"
+            },
+            {
+                 "tiempo":"00:15",
+                 "duracion":2000,
+                 "camara":"c6",
+                 "target":"c7",
+                 "nombre":"entrar en el taller"
+            },
+            {
+                 "tiempo":"01:05",
+                 "duracion":2000,
+                 "camara":"c7",
+                 "target":"c9",
+                 "nombre":"enfoque del 1er metal"
+            },
+            {
+                 "tiempo":"01:20",
+                 "duracion":2000,
+                 "camara":"c7",
+                 "target":"c8",
+                 "nombre":"enfoque del 2do metal"
+            },
+            {
+                 "tiempo":"01:30",
+                 "duracion":0,
+                 "camara":"c3",
+                 "target":"c4",
+                 "nombre":"Volver a la camara de seguridad del pasillo"
+            },
+            {
+                 "tiempo":"01:35",
+                 "duracion":5000,
+                 "camara":"c3",
+                 "target":"c10",
+                 "nombre":"avanzar en el pasillo"
+            },
+            {
+                 "tiempo":"01:40",
+                 "duracion":8000,
+                 "camara":"c10",
+                 "target":"c11",
+                 "nombre":"doblar en la esquina del pasillo"
+            },
+            {
+                 "tiempo":"01:51",
+                 "duracion":5000,
+                 "camara":"c11",
+                 "target":"c11a1",
+                 "nombre":"acercarce a los metales"
+            },
+            {
+                 "tiempo":"02:00",
+                 "duracion":1000,
+                 "camara":"c11a1",
+                 "target":"c12",
+                 "nombre":"enfoque del 3er metal"
+            },
+            {
+                 "tiempo":"02:17",
+                 "duracion":1000,
+                 "camara":"c11a2",
+                 "target":"c13",
+                 "nombre":"enfoque del 4to metal"
+            },
+            {
+                 "tiempo":"02:29",
+                 "duracion":0,
+                 "camara":"c14",
+                 "target":"c15",
+                 "nombre":"escalera mirando hacia arriba"
+            },
+            {
+                 "tiempo":"02:31",
+                 "duracion":2500,
+                 "camara":"c15",
+                 "target":"c16",
+                 "nombre":"subiendo la escalera"
+            },
+            {
+                 "tiempo":"02:35",
+                 "duracion":2500,
+                 "camara":"c16",
+                 "target":"c17",
+                 "nombre":"entrar en la habitacion de vin y mirar a la izquierda"
+            },
+            {
+                 "tiempo":"02:45",
+                 "duracion":3500,
+                 "camara":"c16",
+                 "target":"c18",
+                 "nombre":"mirar a la derecha"
+            },
+            {
+                 "tiempo":"02:50",
+                 "duracion":2000,
+                 "camara":"c18",
+                 "target":"c18a1",
+                 "nombre":"acercarce al mueble"
+            },
+            {
+                 "tiempo":"02:55",
+                 "duracion":1000,
+                 "camara":"c18a2",
+                 "target":"c19",
+                 "nombre":"enfoque del 5to metal"
+            },
+            {
+                 "tiempo":"03:10",
+                 "duracion":2000,
+                 "camara":"c18a1",
+                 "target":"c20",
+                 "nombre":"enfoque del 6to metal"
+            },
+            {
+                 "tiempo":"03:17",
+                 "duracion":2000,
+                 "camara":"c18",
+                 "target":"c16",
+                 "nombre":"ir hacia la puerta"
+            },
+            {
+                 "tiempo":"03:20",
+                 "duracion":2000,
+                 "camara":"c16",
+                 "target":"c15",
+                 "nombre":"salir al pasillo"
+            },
+            {
+                 "tiempo":"03:22",
+                 "duracion":2000,
+                 "camara":"c15",
+                 "target":"c21",
+                 "nombre":"puerta de 6 habitaciones"
+            },
+            {
+                 "tiempo":"03:25",
+                 "duracion":2000,
+                 "camara":"c15",
+                 "target":"c22",
+                 "nombre":"puerta del salon"
+            },
+            {
+                 "tiempo":"03:28",
+                 "duracion":2000,
+                 "camara":"c22",
+                 "target":"c23",
+                 "nombre":"entrar en el salon"
+            },
+            {
+                 "tiempo":"03:30",
+                 "duracion":2000,
+                 "camara":"c23",
+                 "target":"c24",
+                 "nombre":"mirar sillones y pizarra"
+            },
+            {
+                 "tiempo":"03:34",
+                 "duracion":2000,
+                 "camara":"c24",
+                 "target":"c25",
+                 "nombre":"acercarce un poco a los sillones y la pizarra"
+            },
+            {
+                 "tiempo":"03:41",
+                 "duracion":2000,
+                 "camara":"c24a1",
+                 "target":"c26",
+                 "nombre":"enfoque del 7mo metal"
+            },
+            {
+                 "tiempo":"03:57",
+                 "duracion":2000,
+                 "camara":"c24a1",
+                 "target":"c27",
+                 "nombre":"enfoque del 8vo metal"
+            },
+            {
+                 "tiempo":"04:17",
+                 "duracion":0,
+                 "camara":"c6",
+                 "target":"c28",
+                 "nombre":"puerta oculta"
+            },
+            {
+                 "tiempo":"04:20",
+                 "duracion":10000,
+                 "camara":"c28",
+                 "target":"c28a1",
+                 "nombre":"acercarse a la puerta"
+            },
+            {
+                 "tiempo":"04:30",
+                 "duracion":10000,
+                 "camara":"c28",
+                 "target":"c29",
+                 "nombre":"acercarse a la puerta"
+            }
+        ]
+}

@@ -1,0 +1,848 @@
+<REAPER_PROJECT 0.1 "7.02/win64" 1700052522
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 795.20513315049368
+  ZOOM 0.29929384265551 0 0
+  VZOOMEX 5.4749999 312
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\Peluca82\Desktop\audio2.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 0 0 280 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbUABAAAAAAAAAgAAAP////8EAAAAQAEAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 322.3385749606278 0
+  SELECTION2 322.3385749606278 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {D6E6A325-E8B4-4475-BE84-E83DBEE22D0C}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {5CCC93B6-21E2-4D67-BDC0-DD7AB26222D6}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {ED17CB50-EE9D-435C-86A3-02CCB2F17C52}
+    NAME "WhatsApp Audio 2023-11-14 at 5.58.51 PM"
+    PEAKCOL 27852745
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.39600150758095 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {ED17CB50-EE9D-435C-86A3-02CCB2F17C52}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 80
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 5.11304685669465 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {756A63A3-EA6C-4728-A515-06FB36A3762C}
+      IID 1
+      NAME "WhatsApp Audio 2023-11-14 at 5.58.51 PM.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A68ABF49-954B-4B06-B3C0-8BF3FED0A44F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\Peluca82\Downloads\WhatsApp Audio 2023-11-14 at 5.58.51 PM.m4a"
+      >
+    >
+    <ITEM
+      POSITION 89
+      SNAPOFFS 0
+      LENGTH 48.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2FB42EEF-1C86-4924-960C-EEF73539FDF2}
+      IID 1
+      NAME "WhatsApp Audio 2023-11-14 at 5.58.51 PM.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 86
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C26BAFCC-32C9-4F58-A48A-8CD1015E3E92}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\Peluca82\Downloads\WhatsApp Audio 2023-11-14 at 5.58.51 PM.m4a"
+      >
+    >
+    <ITEM
+      POSITION 149.5
+      SNAPOFFS 0
+      LENGTH 25.16077097505689
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.07639964435177 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F5E22D5-CCE2-4EB3-AD6C-8243D0FD3F4B}
+      IID 1
+      NAME "WhatsApp Audio 2023-11-14 at 5.58.51 PM.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 134.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BB4EF25-5C07-4BA0-9748-5D02D739DB69}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\Peluca82\Downloads\WhatsApp Audio 2023-11-14 at 5.58.51 PM.m4a"
+      >
+    >
+    <ITEM
+      POSITION 174.58437133070512
+      SNAPOFFS 0
+      LENGTH 16.33922902494314
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.07639964435177 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D1554CC-BFB6-4E5C-A753-7481F4D73EEA}
+      IID 1
+      NAME "WhatsApp Audio 2023-11-14 at 5.58.51 PM.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 175
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8638BDF5-B5C5-4E95-8CBA-3767323AEC93}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\Peluca82\Downloads\WhatsApp Audio 2023-11-14 at 5.58.51 PM.m4a"
+      >
+    >
+    <ITEM
+      POSITION 198.2251948872906
+      SNAPOFFS 0
+      LENGTH 42.03643987505689
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {556F2377-69E5-4136-967C-2512E6EB90C7}
+      IID 1
+      NAME "WhatsApp Audio 2023-11-14 at 5.58.51 PM.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 213.33922902494311
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B927E9A0-90E9-46DB-BF75-1CB266061E45}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "C:\Users\Peluca82\Downloads\WhatsApp Audio 2023-11-14 at 5.58.51 PM.m4a"
+      >
+    >
+  >
+  <TRACK {068D077B-EB7B-4414-983B-4A3FFF141267}
+    NAME "WhatsApp Audio 2023-11-14 at 8.00.59 PM"
+    PEAKCOL 32622008
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.60115247317422 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {068D077B-EB7B-4414-983B-4A3FFF141267}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 80
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {611F9EA3-1335-4201-853F-620145DE7F37}
+      IID 52
+      NAME "WhatsApp Audio 2023-11-14 at 8.00.59 PM-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D5E139D-6854-42AE-B46D-29F6D2E58DB4}
+      <SOURCE WAVE
+        FILE "C:\Users\Peluca82\Documents\REAPER Media\WhatsApp Audio 2023-11-14 at 8.00.59 PM-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 137.5
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EE2959D1-C7FF-4D13-93CD-808BAAAEB405}
+      IID 47
+      NAME "WhatsApp Audio 2023-11-14 at 8.00.59 PM.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 10.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11DCE8AF-C598-4152-A698-5D346E93F851}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\WhatsApp Audio 2023-11-14 at 8.00.59 PM.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 190.83743752585764
+      SNAPOFFS 0
+      LENGTH 7.38146098624762
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {413B7276-D3AC-49D8-BDF0-86C891293FF6}
+      IID 47
+      NAME "WhatsApp Audio 2023-11-14 at 8.00.59 PM.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 24.11853901375233
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E09E576F-F34D-484C-B33E-C14F63DE8BC0}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\WhatsApp Audio 2023-11-14 at 8.00.59 PM.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 238.27461637295346
+      SNAPOFFS 0
+      LENGTH 11.69163265306426
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {25BAB314-0892-416F-8B89-CCB762173EC1}
+      IID 47
+      NAME "WhatsApp Audio 2023-11-14 at 8.00.59 PM.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 33.02999999999696
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC628731-7749-4419-AD2E-5073B3C596A0}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\WhatsApp Audio 2023-11-14 at 8.00.59 PM.mp3" 1
+      >
+    >
+  >
+  <TRACK {9409F893-0E03-4781-A7A7-E80ACE7F8923}
+    NAME "Y2meta.app - Música medieval de misterio y fantasía 🕯️ Suspense, misterio y terror en el castillo (320 kbps)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.04613842690295 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9409F893-0E03-4781-A7A7-E80ACE7F8923}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 192.43369946657893
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C69D5DD9-CD27-406F-8A9E-4B6D590828E4}
+      IID 72
+      NAME "Y2meta.app - Música medieval de misterio y fantasía 🕯️ Suspense, misterio y terror en el castillo (320 kbps).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6B644A9-596E-4948-B9D4-C11971F47BF2}
+      <SOURCE MP3
+        FILE "Media\Y2meta.app - Música medieval de misterio y fantasía 🕯️ Suspense, misterio y terror en el castillo (320 kbps).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 192.43369946657893
+      SNAPOFFS 0
+      LENGTH 63.05625057323684
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 35.71364893029681 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {147EB606-DE44-41A8-9A3D-3D998B0463B7}
+      IID 72
+      NAME "Y2meta.app - Música medieval de misterio y fantasía 🕯️ Suspense, misterio y terror en el castillo (320 kbps).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 18.79656632099488
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3C22578-CC4C-4166-A544-E8205AADFD87}
+      <SOURCE MP3
+        FILE "Media\Y2meta.app - Música medieval de misterio y fantasía 🕯️ Suspense, misterio y terror en el castillo (320 kbps).mp3" 1
+      >
+    >
+  >
+  <TRACK {337238AA-2871-4C7F-8720-62118A40DB6E}
+    NAME "Agua Hirbiendo"
+    PEAKCOL 32485119
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.01167650764464 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {337238AA-2871-4C7F-8720-62118A40DB6E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 153.98569944867324
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.90186663883171 0 1 0 0 0
+      FADEOUT 1 2.40010029672027 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6ED4C3F6-3414-43B3-B71B-3171A794FF66}
+      IID 17
+      NAME "Agua Hirbiendo.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {889C5C1C-B23F-4761-942A-265277126C30}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Agua Hirbiendo.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 199.79155529113956
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.90186663883196 0 1 0 0 0
+      FADEOUT 1 5.49167134732306 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A6F9B40-FD72-4F80-BC9D-A9A92DF9D718}
+      IID 17
+      NAME "Agua Hirbiendo.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B078229-F003-4E92-A463-4D6B5000953F}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Agua Hirbiendo.mp3" 1
+      >
+    >
+  >
+  <TRACK {3C4348D2-9259-44FF-82A3-11228C02DDDD}
+    NAME Cocina
+    PEAKCOL 26476543
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.06606893531585 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3C4348D2-9259-44FF-82A3-11228C02DDDD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 153.98569944867324
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.90186663883171 0 1 0 0 0
+      FADEOUT 1 2.40010029672027 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FA11B1F4-2E94-4DC8-89BF-FE5FD6CE531B}
+      IID 19
+      NAME Cocina.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {022F9FE7-AA4B-47A6-B44D-DA623FB2DB26}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Cocina.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 199.79155529113956
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.90186663883196 0 1 0 0 0
+      FADEOUT 1 5.49167134732306 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {34E8225C-3228-4D6B-9D88-DDC2F48AFD0F}
+      IID 19
+      NAME Cocina.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C089409-EA5E-44B0-9107-CCD90077906E}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Cocina.mp3" 1
+      >
+    >
+  >
+  <TRACK {8C64214D-3FFA-4EDF-B014-6D6B5CE1EFB8}
+    NAME "Pasos de madera"
+    PEAKCOL 26053375
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.55760551322897 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8C64214D-3FFA-4EDF-B014-6D6B5CE1EFB8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 150
+      SNAPOFFS 0
+      LENGTH 5.48569944867324
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 2.31364085059033 0 1 0 0 0
+      FADEOUT 1 2.21803742876449 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB203622-078B-41B2-B42E-75F4EABC4D2F}
+      IID 18
+      NAME "Pasos de madera.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.51430055132676
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5CF7B7B1-C154-423C-B82C-205DB49D9F05}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Pasos de madera.mp3" 1
+      >
+    >
+  >
+  <TRACK {848CB233-CAA0-419E-9340-1B64D19417DB}
+    NAME "Beber agua"
+    PEAKCOL 33554359
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.17212775315622 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {848CB233-CAA0-419E-9340-1B64D19417DB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 65.19378396417818
+      SNAPOFFS 0
+      LENGTH 3.51398679166151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.89506138792902 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90B7C6C5-E275-4E98-90E7-027154F82584}
+      IID 20
+      NAME "Beber agua.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B6688C6-ACCE-4A00-8A77-FD57A4C6FE66}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Beber agua.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 82.62779445611883
+      SNAPOFFS 0
+      LENGTH 3.51398679166141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 1.25428551290783 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1CA628BF-780D-4590-AAF3-6CF3D4C7FA18}
+      IID 20
+      NAME "Beber agua.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67C9835F-8132-4345-BFA4-4CF477B7FC00}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Beber agua.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 124.68068478343139
+      SNAPOFFS 0
+      LENGTH 3.51398679166132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {79947B1A-30D9-46E7-98C0-910DE24024AF}
+      IID 20
+      NAME "Beber agua.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64481686-08E9-47CD-A9E9-4355426D07D9}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Beber agua.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 141.29962432361313
+      SNAPOFFS 0
+      LENGTH 3.51398679166141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {475722B9-ED1B-4EB9-9C5F-2324D4ABB93C}
+      IID 20
+      NAME "Beber agua.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50097F67-D621-45C8-8451-D9F7AC1D1A91}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Beber agua.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 176.06192280299135
+      SNAPOFFS 0
+      LENGTH 3.51398679166141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {820845AC-6481-42BC-96C6-7BDAA9177FC0}
+      IID 20
+      NAME "Beber agua.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBDDE1EB-2795-4ABE-B88F-A01F1A682CCF}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Beber agua.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 191.07766034523917
+      SNAPOFFS 0
+      LENGTH 3.51398679166141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DAA852B5-F146-4AFC-9EA6-12FF8C78C141}
+      IID 20
+      NAME "Beber agua.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1B9FAC8-1B42-4812-B724-42B361A9C9DF}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Beber agua.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 223.34356991616264
+      SNAPOFFS 0
+      LENGTH 3.51398679166141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C40E9BDD-2B5B-427D-969B-0A075DC9D072}
+      IID 20
+      NAME "Beber agua.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80A2C0C4-79B4-49CD-8D7F-AB1E56AD0568}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Beber agua.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 238.50791397388093
+      SNAPOFFS 0
+      LENGTH 3.51398679166141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0DC32D1F-58C9-4BC3-AEF9-734CFC40CE47}
+      IID 20
+      NAME "Beber agua.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D84BCFD-E2FB-4F2E-88DC-A435BAAD08C9}
+      <SOURCE MP3
+        FILE "C:\Users\Peluca82\Downloads\Beber agua.mp3" 1
+      >
+    >
+  >
+  <TRACK {A9D8C728-1FFC-428F-966C-A08C4D6DA363}
+    NAME Fuego
+    PEAKCOL 24633599
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.23783287923456 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A9D8C728-1FFC-428F-966C-A08C4D6DA363}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 211.37083010663781
+      SNAPOFFS 0
+      LENGTH 33.64051249421263
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 7.4983284417888 0 1 0 0 0
+      FADEOUT 1 5.77811473246027 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C386CBE6-EC86-4579-BCF4-A104829F32D7}
+      IID 44
+      NAME 07-Fuego-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 6.35948750578731
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A26622B5-30FF-48AA-A43A-60098FCFE432}
+      <SOURCE WAVE
+        FILE "C:\Users\Peluca82\Documents\REAPER Media\07-Fuego-glued.wav"
+      >
+    >
+  >
+>
